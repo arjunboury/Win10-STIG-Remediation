@@ -1,1 +1,0 @@
-# Security Technical Implementation Guides
