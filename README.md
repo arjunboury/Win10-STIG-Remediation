@@ -1,6 +1,6 @@
 # 🛡️ Windows 10 STIG Remediation Scripts (PowerShell)
 
-This repository contains PowerShell scripts for remediating **DISA STIG** findings on Windows 10 systems. Each script is tailored to a specific STIG ID and ensures compliance using only PowerShell—no GUI steps, GPO changes, or external tools required.
+This repository contains PowerShell scripts for remediating **DISA STIG**(Security Technical Implementation Guides) findings on Windows 10 systems. Each script is tailored to a specific STIG ID and ensures compliance using only PowerShell—no GUI steps, GPO changes, or external tools required.
 
 > 🔧 **Objective**: Perform secure, repeatable, and auditable system hardening using automated PowerShell-based remediation.
 
